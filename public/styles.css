@@ -1,0 +1,56 @@
+
+div{
+
+}
+
+.container{
+margin: 0;
+padding: 10px;
+width: 100%;
+
+}
+
+article{
+  display: inline-block;
+
+}
+
+.userCard{
+  background: grey;
+  border: 1px solid black;
+  width: 33%;
+  height: auto;
+  align-items: center;
+
+}
+
+.cardHead{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.avatar{
+
+}
+
+.pic{
+  border: 1px solid black;
+  border-radius: 75px;
+
+}
+
+
+
+.stats{
+
+}
+
+.hireFor{
+  text-align: left;
+
+}
+
+.rSkills{
+
+}
